@@ -23,7 +23,7 @@ post_date: 2015-09-19 10:04:54
             </p>
             
             <p style="text-align: center;">
-              [spacer height="500px"]
+              [spacer height="600px"]
             </p>
           </div>
         </div>
