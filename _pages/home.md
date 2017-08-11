@@ -47,7 +47,7 @@ post_date: 2015-09-19 10:04:54
   
   <div id="pg-132-2"  class="panel-grid panel-no-style" >
     <div id="pgc-132-2-0"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
             <a href="http://www.uraeus.co.uk/home/architecture-a/" rel="attachment wp-att-424"><img class="aligncenter  wp-image-424" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/architecture-a-150x150.jpg" alt="" width="135" height="135" /></a>
@@ -73,7 +73,7 @@ post_date: 2015-09-19 10:04:54
     </div>
     
     <div id="pgc-132-2-1"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
             <a href="http://www.uraeus.co.uk/home/blockchain-b-page-1/" rel="attachment wp-att-411"><img class="aligncenter wp-image-411" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Blockchain-b-Page-1-150x150.jpeg" alt="" width="135" height="135" /></a>
@@ -101,12 +101,8 @@ post_date: 2015-09-19 10:04:54
     <div id="pgc-132-2-2"  class="panel-grid-cell"  data-weight="0.33333333333333" >
       <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
-          <p>
-            <a href="http://www.uraeus.co.uk/home/contact-c/" rel="attachment wp-att-425"><img class="aligncenter wp-image-425" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-150x150.jpg" alt="" width="125" height="125" /></a>
-          </p>
-          
           <h2 style="text-align: center;">
-            Contact
+            <a href="http://www.uraeus.co.uk/home/contact-c-2/" rel="attachment wp-att-456"><img class="aligncenter wp-image-456" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-1.jpg" alt="" width="135" height="135" /></a>Contact
           </h2>
           
           <p style="text-align: center;">
