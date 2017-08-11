@@ -17,14 +17,6 @@ post_date: 2015-09-19 10:04:54
             <h2 style="text-align: center;">
               <span class="home-headline">Uraeus Technologies</span>
             </h2>
-            
-            <p style="text-align: center;">
-              <br /><br />
-            </p>
-            
-            <p style="text-align: center;">
-              [spacer height="50px"]
-            </p>
           </div>
         </div>
       </div>
