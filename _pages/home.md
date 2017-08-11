@@ -12,7 +12,7 @@ post_date: 2015-09-19 10:04:54
   <div id="pg-132-0"  class="panel-grid panel-has-style"  data-style="{&quot;background_image_attachment&quot;:&quot;181&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-132-0" data-stretch-type="full" >
       <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
-        <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;center&quot;}" >
+        <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;center&quot;}" >
           <div class="textwidget">
             <h2 style="text-align: center;">
               <span class="home-headline">Uraeus Technologies</span>
@@ -33,7 +33,7 @@ post_date: 2015-09-19 10:04:54
   
   <div id="pg-132-1"  class="panel-grid panel-no-style" >
     <div id="pgc-132-1-0"  class="panel-grid-cell"  data-weight="1" >
-      <div id="panel-132-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <p style="text-align: center;">
             Demystifying Blockchain With Mythology
@@ -47,10 +47,6 @@ post_date: 2015-09-19 10:04:54
     <div id="pgc-132-2-0"  class="panel-grid-cell"  data-weight="0.33333333333333" >
       <div id="panel-132-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
-          <p>
-             
-          </p>
-          
           <h2>
             <a href="http://www.uraeus.co.uk/home/blockchain-b-page-1/" rel="attachment wp-att-411"><img class="size-medium wp-image-411 aligncenter" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Blockchain-b-Page-1-290x300.jpeg" alt="" width="290" height="300" /></a>
           </h2>
@@ -60,7 +56,7 @@ post_date: 2015-09-19 10:04:54
           </h2>
           
           <p style="text-align: center;">
-            Advice Code, Architecture
+            Advice /  Code / Architecture
           </p>
           
           <p style="text-align: center;">
