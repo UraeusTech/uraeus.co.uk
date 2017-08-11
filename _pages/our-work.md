@@ -1,6 +1,6 @@
 ---
 ID: 134
-post_title: Our Work
+post_title: Architecture
 author: Jake Beauchamp
 post_excerpt: ""
 layout: page
