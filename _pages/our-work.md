@@ -27,16 +27,9 @@ post_date: 2015-09-19 10:05:14
     </div>
   </div>
   
-  <div id="pg-134-1"  class="panel-grid panel-has-style"  data-style="{&quot;background_image_attachment&quot;:&quot;276&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;}" >
+  <div id="pg-134-1"  class="panel-grid panel-has-style"  data-style="{&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-134-1" data-stretch-type="full" >
-      <div id="pgc-134-1-0"  class="panel-grid-cell"  data-weight="1" >
-        <div id="panel-134-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
-          <div class="textwidget">
-            <p>
-              [spacer height="50px"]
-            </p>
-          </div>
-        </div>
+      <div id="pgc-134-1-0"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="1" >
       </div>
     </div>
   </div>
@@ -46,11 +39,8 @@ post_date: 2015-09-19 10:05:14
     </div>
     
     <div id="pgc-134-2-1"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.7" >
-      <div id="panel-134-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-134-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
-          <p style="text-align: center;">
-            <span class="our-text">You matter. Which is why you will talk to a person who cares.</span>
-          </p>
         </div>
       </div>
     </div>
@@ -59,10 +49,10 @@ post_date: 2015-09-19 10:05:14
     </div>
   </div>
   
-  <div id="pg-134-3"  class="panel-grid panel-has-style"  data-style="{&quot;background_image_attachment&quot;:&quot;278&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;}" >
+  <div id="pg-134-3"  class="panel-grid panel-has-style"  data-style="{&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-134-3" data-stretch-type="full" >
       <div id="pgc-134-3-0"  class="panel-grid-cell"  data-weight="1" >
-        <div id="panel-134-3-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div id="panel-134-3-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
           <div class="textwidget">
             <p>
               [spacer height="50px"]
