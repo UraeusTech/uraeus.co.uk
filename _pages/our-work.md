@@ -33,7 +33,7 @@ post_date: 2015-09-19 10:05:14
         <div id="panel-134-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
           <div class="textwidget">
             <p>
-              [spacer height="600px"]
+              [spacer height="50px"]
             </p>
           </div>
         </div>
@@ -65,7 +65,7 @@ post_date: 2015-09-19 10:05:14
         <div id="panel-134-3-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
           <div class="textwidget">
             <p>
-              [spacer height="600px"]
+              [spacer height="50px"]
             </p>
           </div>
         </div>
