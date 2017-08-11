@@ -12,11 +12,11 @@ post_date: 2015-09-19 10:04:54
   <div id="pg-132-0"  class="panel-grid panel-has-style"  data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:&quot;181&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-132-0" data-stretch-type="full" >
       <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
-        <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;center&quot;,&quot;font_color&quot;:&quot;#f9f9f9&quot;}" >
+        <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;center&quot;,&quot;font_color&quot;:&quot;#f9f9f9&quot;}" >
           <div class="panel-widget-style panel-widget-style-for-132-0-0-0" >
             <div class="textwidget">
               <p style="text-align: center;">
-                [spacer height="50px"]
+                [spacer height="25px"]
               </p>
               
               <h1 style="text-align: center;">
@@ -24,7 +24,7 @@ post_date: 2015-09-19 10:04:54
               </h1>
               
               <p style="text-align: center;">
-                [spacer height="50px"]
+                [spacer height="25px"]
               </p>
             </div>
           </div>
@@ -33,12 +33,12 @@ post_date: 2015-09-19 10:04:54
     </div>
   </div>
   
-  <div id="pg-132-1"  class="panel-grid panel-no-style" >
+  <div id="pg-132-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div id="pgc-132-1-0"  class="panel-grid-cell"  data-weight="1" >
-      <div id="panel-132-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <p style="text-align: center;">
-            Demystifying Blockchain With Mythology
+            Demystifying Blockchain
           </p>
         </div>
       </div>
@@ -47,10 +47,10 @@ post_date: 2015-09-19 10:04:54
   
   <div id="pg-132-2"  class="panel-grid panel-no-style" >
     <div id="pgc-132-2-0"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
-            <a href="http://www.uraeus.co.uk/home/architecture-a/" rel="attachment wp-att-424"><img class="aligncenter size-thumbnail wp-image-424" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/architecture-a-150x150.jpg" alt="" width="150" height="150" /></a>
+            <a href="http://www.uraeus.co.uk/home/architecture-a/" rel="attachment wp-att-424"><img class="aligncenter  wp-image-424" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/architecture-a-150x150.jpg" alt="" width="135" height="135" /></a>
           </h2>
           
           <h2 style="text-align: center;">
@@ -58,7 +58,7 @@ post_date: 2015-09-19 10:04:54
           </h2>
           
           <p style="text-align: center;">
-            We work with organisations in the Public, Private and Not for Profit Sectors to understand their Business and IT needs and to help them achieve them quicker, cheaper and better.
+            Helping your Business be the best it can be.
           </p>
           
           <p style="text-align: center;">
@@ -69,10 +69,10 @@ post_date: 2015-09-19 10:04:54
     </div>
     
     <div id="pgc-132-2-1"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
-            <a href="http://www.uraeus.co.uk/home/blockchain-b-page-1/" rel="attachment wp-att-411"><img class="aligncenter size-thumbnail wp-image-411" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Blockchain-b-Page-1-150x150.jpeg" alt="" width="150" height="150" /></a>
+            <a href="http://www.uraeus.co.uk/home/blockchain-b-page-1/" rel="attachment wp-att-411"><img class="aligncenter wp-image-411" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Blockchain-b-Page-1-150x150.jpeg" alt="" width="135" height="135" /></a>
           </h2>
           
           <h2 style="text-align: center;">
@@ -84,10 +84,6 @@ post_date: 2015-09-19 10:04:54
           </p>
           
           <p style="text-align: center;">
-             
-          </p>
-          
-          <p style="text-align: center;">
             <a class="button primary-button" href="/services">Our Blockchain Services </a>
           </p>
         </div>
@@ -95,10 +91,10 @@ post_date: 2015-09-19 10:04:54
     </div>
     
     <div id="pgc-132-2-2"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <p>
-            <a href="http://www.uraeus.co.uk/home/contact-c/" rel="attachment wp-att-425"><img class="aligncenter size-thumbnail wp-image-425" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-150x150.jpg" alt="" width="150" height="150" /></a>
+            <a href="http://www.uraeus.co.uk/home/contact-c/" rel="attachment wp-att-425"><img class="aligncenter wp-image-425" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-150x150.jpg" alt="" width="135" height="135" /></a>
           </p>
           
           <h2 style="text-align: center;">
@@ -106,7 +102,7 @@ post_date: 2015-09-19 10:04:54
           </h2>
           
           <p style="text-align: center;">
-            Get in touch with us, so that we can give you advice on how to make things easy for you.
+            Get in touch - we can help
           </p>
           
           <p style="text-align: center;">
