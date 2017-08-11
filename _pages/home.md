@@ -12,7 +12,7 @@ post_date: 2015-09-19 10:04:54
   <div id="pg-132-0"  class="panel-grid panel-has-style"  data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:&quot;181&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-132-0" data-stretch-type="full" >
       <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
-        <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;center&quot;,&quot;font_color&quot;:&quot;#f9f9f9&quot;}" >
+        <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;center&quot;,&quot;font_color&quot;:&quot;#f9f9f9&quot;}" >
           <div class="panel-widget-style panel-widget-style-for-132-0-0-0" >
             <div class="textwidget">
               <p style="text-align: center;">
@@ -33,9 +33,9 @@ post_date: 2015-09-19 10:04:54
     </div>
   </div>
   
-  <div id="pg-132-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
+  <div id="pg-132-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div id="pgc-132-1-0"  class="panel-grid-cell"  data-weight="1" >
-      <div id="panel-132-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <p style="text-align: center;">
             Demystifying Blockchain
@@ -64,6 +64,10 @@ post_date: 2015-09-19 10:04:54
           <p style="text-align: center;">
             <a class="button primary-button" href="/our-work">Our Architecture Work</a>
           </p>
+          
+          <p style="text-align: center;">
+            [spacer height="20px"]
+          </p>
         </div>
       </div>
     </div>
@@ -84,7 +88,11 @@ post_date: 2015-09-19 10:04:54
           </p>
           
           <p style="text-align: center;">
-            <a class="button primary-button" href="/services">Our Blockchain Services </a>
+            <a class="button primary-button" href="/services">Our Blockchain Services</a>
+          </p>
+          
+          <p style="text-align: center;">
+            [spacer height="20px"]
           </p>
         </div>
       </div>
@@ -94,7 +102,7 @@ post_date: 2015-09-19 10:04:54
       <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <p>
-            <a href="http://www.uraeus.co.uk/home/contact-c/" rel="attachment wp-att-425"><img class="aligncenter wp-image-425" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-150x150.jpg" alt="" width="135" height="135" /></a>
+            <a href="http://www.uraeus.co.uk/home/contact-c/" rel="attachment wp-att-425"><img class="aligncenter wp-image-425" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-150x150.jpg" alt="" width="125" height="125" /></a>
           </p>
           
           <h2 style="text-align: center;">
@@ -107,6 +115,10 @@ post_date: 2015-09-19 10:04:54
           
           <p style="text-align: center;">
             <a class="button primary-button" href="/contact">Contact Us</a>
+          </p>
+          
+          <p style="text-align: center;">
+            [spacer height="20px"]
           </p>
         </div>
       </div>
