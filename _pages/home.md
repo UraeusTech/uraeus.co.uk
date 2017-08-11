@@ -45,11 +45,11 @@ post_date: 2015-09-19 10:04:54
   
   <div id="pg-132-2"  class="panel-grid panel-no-style" >
     <div id="pgc-132-2-0"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
-          <p>
-            <img class="size-full wp-image-201 aligncenter" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Drawing-4.png" alt="Drawing (4)" width="209" height="209" />
-          </p>
+          <h2>
+            <a href="http://www.uraeus.co.uk/home/architecture-a/" rel="attachment wp-att-424"><img class="aligncenter size-thumbnail wp-image-424" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/architecture-a-150x150.jpg" alt="" width="150" height="150" /></a>
+          </h2>
           
           <h2 style="text-align: center;">
             Architecture
@@ -67,10 +67,10 @@ post_date: 2015-09-19 10:04:54
     </div>
     
     <div id="pgc-132-2-1"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
-            <a href="http://www.uraeus.co.uk/home/blockchain-b-page-1/" rel="attachment wp-att-411"><img class="size-medium wp-image-411 aligncenter" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Blockchain-b-Page-1-290x300.jpeg" alt="" width="290" height="300" /></a>
+            <a href="http://www.uraeus.co.uk/home/blockchain-b-page-1/" rel="attachment wp-att-411"><img class="aligncenter size-thumbnail wp-image-411" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Blockchain-b-Page-1-150x150.jpeg" alt="" width="150" height="150" /></a>
           </h2>
           
           <h2 style="text-align: center;">
@@ -86,7 +86,7 @@ post_date: 2015-09-19 10:04:54
           </p>
           
           <p style="text-align: center;">
-            <a class="button primary-button" href="/services">View Blockchain Services </a>
+            <a class="button primary-button" href="/services">Our Blockchain Services </a>
           </p>
         </div>
       </div>
@@ -96,7 +96,7 @@ post_date: 2015-09-19 10:04:54
       <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <p>
-            <img class="alignnone size-full wp-image-195 aligncenter" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Drawing-2.png" alt="Drawing (2)" width="209" height="209" />
+            <a href="http://www.uraeus.co.uk/home/contact-c/" rel="attachment wp-att-425"><img class="aligncenter size-thumbnail wp-image-425" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-150x150.jpg" alt="" width="150" height="150" /></a>
           </p>
           
           <h2 style="text-align: center;">
