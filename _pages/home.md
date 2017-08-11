@@ -99,7 +99,7 @@ post_date: 2017-05-11 15:00:54
     </div>
     
     <div id="pgc-132-2-2"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2 style="text-align: center;">
             <a href="http://www.uraeus.co.uk/home/contact-c/" rel="attachment wp-att-425"><img class="aligncenter size-thumbnail wp-image-425" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-150x150.jpg" alt="" width="150" height="150" /></a>Contact
