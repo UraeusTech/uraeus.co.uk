@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: page
 permalink: http://www.uraeus.co.uk/
 published: true
-post_date: 2015-09-19 10:04:54
+post_date: 2017-05-11 15:00:54
 ---
 <div id="pl-132"  class="panel-layout" >
   <div id="pg-132-0"  class="panel-grid panel-has-style"  data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:&quot;181&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
@@ -102,7 +102,11 @@ post_date: 2015-09-19 10:04:54
       <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2 style="text-align: center;">
-            <a href="http://www.uraeus.co.uk/home/contact-c-2/" rel="attachment wp-att-456"><img class="aligncenter wp-image-456" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-1.jpg" alt="" width="135" height="135" /></a>Contact
+            <a href="http://www.uraeus.co.uk/home/contact-c-2/" rel="attachment wp-att-456"><img class="wp-image-456" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-1.jpg" alt="" width="135" height="135" /></a>
+          </h2>
+          
+          <h2 style="text-align: center;">
+            Contact
           </h2>
           
           <p style="text-align: center;">
