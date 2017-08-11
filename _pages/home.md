@@ -9,19 +9,19 @@ published: true
 post_date: 2015-09-19 10:04:54
 ---
 <div id="pl-132"  class="panel-layout" >
-  <div id="pg-132-0"  class="panel-grid panel-has-style"  data-style="{&quot;background_image_attachment&quot;:&quot;181&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;}" >
+  <div id="pg-132-0"  class="panel-grid panel-has-style"  data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:&quot;181&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-132-0" data-stretch-type="full" >
       <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
-        <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;center&quot;,&quot;font_color&quot;:&quot;#f9f9f9&quot;}" >
+        <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;center&quot;,&quot;font_color&quot;:&quot;#f9f9f9&quot;}" >
           <div class="panel-widget-style panel-widget-style-for-132-0-0-0" >
             <div class="textwidget">
-              <h2 style="text-align: center;">
-                <span class="home-headline">Uraeus Technologies</span>
-              </h2>
-              
               <p style="text-align: center;">
-                <br /><br />
+                [spacer height="50px"]
               </p>
+              
+              <h1 style="text-align: center;">
+                <a href="http://www.uraeus.co.uk/"><span class="home-headline">Uraeus Technologies</span></a>
+              </h1>
               
               <p style="text-align: center;">
                 [spacer height="50px"]
