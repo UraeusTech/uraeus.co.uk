@@ -12,7 +12,7 @@ post_date: 2015-09-19 10:05:26
   <div id="pg-136-0"  class="panel-grid panel-has-style"  data-style="{&quot;background&quot;:&quot;#f9f9f9&quot;,&quot;background_display&quot;:&quot;tile&quot;,&quot;row_stretch&quot;:&quot;full&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-136-0" data-stretch-type="full" >
       <div id="pgc-136-0-0"  class="panel-grid-cell"  data-weight="0.5" >
-        <div id="panel-136-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div id="panel-136-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
           <div class="textwidget">
             <p>
               Contact us via email / Skype / twitter
@@ -37,7 +37,7 @@ post_date: 2015-09-19 10:05:26
   
   <div id="pg-136-1"  class="panel-grid panel-has-style"  data-style="{&quot;background&quot;:&quot;#f9f9f9&quot;,&quot;background_display&quot;:&quot;tile&quot;,&quot;row_stretch&quot;:&quot;full&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-136-1" data-stretch-type="full" >
-      <div id="pgc-136-1-0"  class="panel-grid-cell"  data-weight="0.5" >
+      <div id="pgc-136-1-0"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.5" >
         <div id="panel-136-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
           <div class="textwidget">
             <p>
@@ -51,18 +51,7 @@ post_date: 2015-09-19 10:05:26
         </div>
       </div>
       
-      <div id="pgc-136-1-1"  class="panel-grid-cell"  data-weight="0.5" >
-        <div id="panel-136-1-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
-          <div class="textwidget">
-            <p style="text-align: right;">
-              [spacer height="40px"]
-            </p>
-            
-            <p style="text-align: right;">
-              <a class="button darkblue" href="/contact"> Schedule It</a> <a class="button darkblue-outline" href="/our-work">See Our Work</a>
-            </p>
-          </div>
-        </div>
+      <div id="pgc-136-1-1"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.5" >
       </div>
     </div>
   </div>
