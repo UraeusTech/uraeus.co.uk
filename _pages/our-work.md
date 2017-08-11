@@ -2,30 +2,74 @@
 ID: 134
 post_title: Our Work
 author: Jake Beauchamp
-post_date: 2015-09-19 10:05:14
 post_excerpt: ""
 layout: page
 permalink: http://www.uraeus.co.uk/our-work/
 published: true
-wptr_hide_title:
-  - "1"
-panels_data:
-  - 'a:3:{s:7:"widgets";a:6:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:280:"<p style="text-align: center;"><span class="our-text">text here text here</span><span class="our-text">text here text here</span><span class="our-text">text here text here</span><span class="our-text">text here text here</span><span class="our-text">text here text here</span></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:0;s:9:"widget_id";s:36:"2f40ff4f-7b2c-43a9-bcf3-e8630532a9db";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="600px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:7:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"22ded26c-0d65-4615-803a-03274da31a12";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:146:"<p style="text-align: center;"><span class="our-text">Leave the work to us. Your business is in safe hands, be calm - like still water.</span></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:7:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:2;s:9:"widget_id";s:36:"dd519257-8957-432c-bdc6-97a82d585a5a";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="600px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:7:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:3;s:9:"widget_id";s:36:"3307d4bf-27d9-4b52-82a9-e01637851ed9";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:4;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:126:"<p style="text-align: center;"><span class="our-text">You matter. Which is why you will talk to a person who cares.</span></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:7:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:4;s:4:"cell";i:1;s:2:"id";i:4;s:9:"widget_id";s:36:"65de46d8-fc0e-46dd-a366-4d5b170a38c9";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:5;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="600px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:7:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:5;s:4:"cell";i:0;s:2:"id";i:5;s:9:"widget_id";s:36:"9bb66903-0d61-49d8-b9e1-b137cf2e5da7";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:6:{i:0;a:2:{s:5:"cells";i:3;s:5:"style";a:0:{}}i:1;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:11:"row_stretch";s:4:"full";s:27:"background_image_attachment";i:276;s:18:"background_display";s:5:"cover";}}i:2;a:2:{s:5:"cells";i:3;s:5:"style";a:0:{}}i:3;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:11:"row_stretch";s:4:"full";s:27:"background_image_attachment";i:278;s:18:"background_display";s:5:"cover";}}i:4;a:2:{s:5:"cells";i:3;s:5:"style";a:0:{}}i:5;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:11:"row_stretch";s:4:"full";s:27:"background_image_attachment";i:281;s:18:"background_display";s:5:"cover";}}}s:10:"grid_cells";a:12:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.14999999999999999;}i:1;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.69999999999999996;}i:2;a:2:{s:4:"grid";i:0;s:6:"weight";d:0.14999999999999999;}i:3;a:2:{s:4:"grid";i:1;s:6:"weight";i:1;}i:4;a:2:{s:4:"grid";i:2;s:6:"weight";d:0.14999999999999999;}i:5;a:2:{s:4:"grid";i:2;s:6:"weight";d:0.69999999999999996;}i:6;a:2:{s:4:"grid";i:2;s:6:"weight";d:0.14999999999999999;}i:7;a:2:{s:4:"grid";i:3;s:6:"weight";i:1;}i:8;a:2:{s:4:"grid";i:4;s:6:"weight";d:0.14999999999999999;}i:9;a:2:{s:4:"grid";i:4;s:6:"weight";d:0.69999999999999996;}i:10;a:2:{s:4:"grid";i:4;s:6:"weight";d:0.14999999999999999;}i:11;a:2:{s:4:"grid";i:5;s:6:"weight";i:1;}}}'
+post_date: 2015-09-19 10:05:14
 ---
-<p style="text-align: center;">
-  <span class="our-text">text here text here</span><span class="our-text">text here text here</span><span class="our-text">text here text here</span><span class="our-text">text here text here</span><span class="our-text">text here text here</span>
-</p>
-
-[spacer height="600px"]
-
-<p style="text-align: center;">
-  <span class="our-text">Leave the work to us. Your business is in safe hands, be calm - like still water.</span>
-</p>
-
-[spacer height="600px"]
-
-<p style="text-align: center;">
-  <span class="our-text">You matter. Which is why you will talk to a person who cares.</span>
-</p>
-
-[spacer height="600px"]
+<div id="pl-134"  class="panel-layout" >
+  <div id="pg-134-0"  class="panel-grid panel-no-style" >
+    <div id="pgc-134-0-0"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.15" >
+    </div>
+    
+    <div id="pgc-134-0-1"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.7" >
+      <div id="panel-134-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="textwidget">
+          <p style="text-align: center;">
+            <span class="our-text">Leave the work to us. Your business is in safe hands, be calm - like still water.</span>
+          </p>
+        </div>
+      </div>
+    </div>
+    
+    <div id="pgc-134-0-2"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.15" >
+    </div>
+  </div>
+  
+  <div id="pg-134-1"  class="panel-grid panel-has-style"  data-style="{&quot;background_image_attachment&quot;:&quot;276&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;}" >
+    <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-134-1" data-stretch-type="full" >
+      <div id="pgc-134-1-0"  class="panel-grid-cell"  data-weight="1" >
+        <div id="panel-134-1-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+          <div class="textwidget">
+            <p>
+              [spacer height="600px"]
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id="pg-134-2"  class="panel-grid panel-no-style" >
+    <div id="pgc-134-2-0"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.15" >
+    </div>
+    
+    <div id="pgc-134-2-1"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.7" >
+      <div id="panel-134-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="textwidget">
+          <p style="text-align: center;">
+            <span class="our-text">You matter. Which is why you will talk to a person who cares.</span>
+          </p>
+        </div>
+      </div>
+    </div>
+    
+    <div id="pgc-134-2-2"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.15" >
+    </div>
+  </div>
+  
+  <div id="pg-134-3"  class="panel-grid panel-has-style"  data-style="{&quot;background_image_attachment&quot;:&quot;278&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;}" >
+    <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-134-3" data-stretch-type="full" >
+      <div id="pgc-134-3-0"  class="panel-grid-cell"  data-weight="1" >
+        <div id="panel-134-3-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+          <div class="textwidget">
+            <p>
+              [spacer height="600px"]
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
