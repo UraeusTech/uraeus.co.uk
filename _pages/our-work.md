@@ -14,7 +14,7 @@ post_date: 2015-09-19 10:05:14
     </div>
     
     <div id="pgc-134-0-1"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.7" >
-      <div id="panel-134-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-134-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <p>
             <a href="http://www.uraeus.co.uk/about/togaf9-certified/" rel="attachment wp-att-337"><img class="aligncenter  wp-image-337" src="http://www.uraeus.co.uk/wp-content/uploads/2016/12/togaf9-certified.jpg" alt="" width="296" height="113" /></a>
