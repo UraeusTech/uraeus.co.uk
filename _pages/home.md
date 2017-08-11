@@ -93,18 +93,18 @@ post_date: 2015-09-19 10:04:54
     </div>
     
     <div id="pgc-132-2-2"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <p>
             <img class="alignnone size-full wp-image-195 aligncenter" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Drawing-2.png" alt="Drawing (2)" width="209" height="209" />
           </p>
           
           <h2 style="text-align: center;">
-            contact us
+            Contact
           </h2>
           
           <p style="text-align: center;">
-            Get in touch with us, so that we can give you advice on how to  and make things easy for you.
+            Get in touch with us, so that we can give you advice on how to make things easy for you.
           </p>
           
           <p style="text-align: center;">
