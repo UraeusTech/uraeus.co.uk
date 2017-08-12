@@ -99,7 +99,7 @@ post_date: 2017-05-11 15:00:54
     </div>
     
     <div id="pgc-132-2-2"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2 style="text-align: center;">
             <a href="http://www.uraeus.co.uk/home/contact-c/" rel="attachment wp-att-425"><img class="aligncenter size-thumbnail wp-image-425" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-150x150.jpg" alt="" width="150" height="150" /></a>Contact
@@ -110,20 +110,12 @@ post_date: 2017-05-11 15:00:54
           </p>
           
           <p style="text-align: center;">
-            twitter: uraeustech
-          </p>
-          
-          <p style="text-align: center;">
-            email: info@uraeus.co.uk
-          </p>
-          
-          <p style="text-align: center;">
-            [spacer height="20px"]
+             
           </p>
         </div>
       </div>
       
-      <div id="panel-132-2-2-1" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-1" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <p style="text-align: center;">
              
@@ -143,7 +135,7 @@ post_date: 2017-05-11 15:00:54
         </div>
       </div>
       
-      <div id="panel-132-2-2-2" class="so-panel widget widget_twitter-follow panel-last-child" data-index="6" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-2" class="so-panel widget widget_twitter-follow panel-last-child" data-index="6" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <h3 class="widget-title">
           Follow Us on Twitter
         </h3>
