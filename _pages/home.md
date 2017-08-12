@@ -132,12 +132,8 @@ post_date: 2017-05-11 15:00:54
       </div>
       
       <div id="panel-132-2-2-1" class="so-panel widget widget_twitter-follow panel-last-child" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
-        <h3 class="widget-title">
-          Follow Uraeus Technology on Twitter
-        </h3>
-        
         <div class="twitter-follow">
-          <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button">Follow @uraeustech</a>
+          <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button" data-size="large">Follow @uraeustech</a>
         </div>
       </div>
     </div>
