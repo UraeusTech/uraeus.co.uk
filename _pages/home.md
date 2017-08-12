@@ -63,7 +63,7 @@ post_date: 2017-05-11 15:00:54
   
   <div id="pg-132-2"  class="panel-grid panel-no-style" >
     <div id="pgc-132-2-0"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
             <a href="http://www.uraeus.co.uk/home/architecture-a/" rel="attachment wp-att-424"><img class="aligncenter  wp-image-424" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/architecture-a-150x150.jpg" alt="" width="135" height="135" /></a>
@@ -86,22 +86,10 @@ post_date: 2017-05-11 15:00:54
           </p>
         </div>
       </div>
-      
-      <div id="panel-132-2-0-1" class="so-panel widget widget_twitter-follow panel-last-child" data-index="3" data-style="{&quot;background&quot;:&quot;#1e73be&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
-        <div class="panel-widget-style panel-widget-style-for-132-2-0-1" >
-          <h3 class="widget-title">
-            Follow Us on Twitter
-          </h3>
-          
-          <div class="twitter-follow">
-            <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button">Follow @uraeustech</a>
-          </div>
-        </div>
-      </div>
     </div>
     
     <div id="pgc-132-2-1"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
             <a href="http://www.uraeus.co.uk/home/blockchain-b-page-1/" rel="attachment wp-att-411"><img class="aligncenter wp-image-411" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Blockchain-b-Page-1-150x150.jpeg" alt="" width="135" height="135" /></a>
@@ -127,7 +115,7 @@ post_date: 2017-05-11 15:00:54
     </div>
     
     <div id="pgc-132-2-2"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2 style="text-align: center;">
             <a href="http://www.uraeus.co.uk/home/contact-c/" rel="attachment wp-att-425"><img class="aligncenter size-thumbnail wp-image-425" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-150x150.jpg" alt="" width="150" height="150" /></a>Contact
@@ -140,6 +128,16 @@ post_date: 2017-05-11 15:00:54
           <p style="text-align: center;">
              
           </p>
+        </div>
+      </div>
+      
+      <div id="panel-132-2-2-1" class="so-panel widget widget_twitter-follow panel-last-child" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <h3 class="widget-title">
+          Follow Uraeus Technology on Twitter
+        </h3>
+        
+        <div class="twitter-follow">
+          <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button">Follow @uraeustech</a>
         </div>
       </div>
     </div>
