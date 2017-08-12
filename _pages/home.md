@@ -14,7 +14,7 @@ post_date: 2017-05-11 15:00:54
       <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
         <div id="panel-132-0-0-0" class="so-panel widget widget_sow-hero panel-first-child panel-last-child" data-index="0" data-style="{&quot;background&quot;:&quot;#89a4bf&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
           <div class="panel-widget-style panel-widget-style-for-132-0-0-0" >
-            <div class="so-widget-sow-hero so-widget-sow-hero-default-a2c12170b4d8 so-widget-fittext-wrapper" data-fit-text-compressor="0.85">
+            <div class="so-widget-sow-hero so-widget-sow-hero-default-7bec7e8f2c39 so-widget-fittext-wrapper" data-fit-text-compressor="0.85">
               <div class="sow-slider-base " style="display: none">
                 <ul class="sow-slider-images" data-settings="{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000,&quot;swipe&quot;:true}">
                   <li class="sow-slider-image" style="background-color: #333333" >
