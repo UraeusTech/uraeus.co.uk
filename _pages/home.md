@@ -125,8 +125,8 @@ post_date: 2017-05-11 15:00:54
     </div>
   </div>
   
-  <div id="pg-132-3"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
-    <div id="pgc-132-3-0"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.5" >
+  <div id="pg-132-3"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
+    <div id="pgc-132-3-0"  class="panel-grid-cell"  data-weight="0.5" >
       <div id="panel-132-3-0-0" class="so-panel widget widget_twitter-follow panel-first-child panel-last-child" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="twitter-follow">
           <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button" data-show-count="false">Follow @uraeustech</a>
@@ -134,7 +134,17 @@ post_date: 2017-05-11 15:00:54
       </div>
     </div>
     
-    <div id="pgc-132-3-1"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.5" >
+    <div id="pgc-132-3-1"  class="panel-grid-cell"  data-weight="0.5" >
+      <div id="panel-132-3-1-0" class="so-panel widget widget_wpcom_social_media_icons_widget panel-first-child panel-last-child" data-index="6" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <h3 class="widget-title">
+          Social
+        </h3>
+        
+        <ul>
+          <li>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
