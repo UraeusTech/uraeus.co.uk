@@ -12,7 +12,7 @@ post_date: 2017-05-11 15:00:54
   <div id="pg-132-0"  class="panel-grid panel-has-style"  data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:&quot;181&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-132-0" data-stretch-type="full" >
       <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
-        <div id="panel-132-0-0-0" class="so-panel widget widget_sow-hero panel-first-child panel-last-child" data-index="0" data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div id="panel-132-0-0-0" class="so-panel widget widget_sow-hero panel-first-child panel-last-child" data-index="0" data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_display&quot;:&quot;tile&quot;}" >
           <div class="panel-widget-style panel-widget-style-for-132-0-0-0" >
             <div class="so-widget-sow-hero so-widget-sow-hero-default-feb4cec33aa6 so-widget-fittext-wrapper" data-fit-text-compressor="0.85">
               <div class="sow-slider-base " style="display: none">
@@ -131,23 +131,15 @@ post_date: 2017-05-11 15:00:54
         </div>
       </div>
       
-      <div id="panel-132-2-2-1" class="widget_text so-panel widget widget_custom_html" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
-        <h3 class="widget-title">
-          Follow Us On Twitter
-        </h3>
-        
-        <div class="textwidget custom-html-widget">
-          <a href="https://twitter.com/UraeusTech" class="twitter-follow-button" data-show-count="false">Follow @UraeusTech</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div>
-      </div>
-      
-      <div id="panel-132-2-2-2" class="so-panel widget widget_twitter-follow panel-last-child" data-index="6" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
-        <h3 class="widget-title">
-          Follow Us on Twitter
-        </h3>
-        
-        <div class="twitter-follow">
-          <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button">Follow @uraeustech</a>
+      <div id="panel-132-2-2-1" class="so-panel widget widget_twitter-follow panel-last-child" data-index="5" data-style="{&quot;background&quot;:&quot;#1e73be&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="panel-widget-style panel-widget-style-for-132-2-2-1" >
+          <h3 class="widget-title">
+            Follow Us on Twitter
+          </h3>
+          
+          <div class="twitter-follow">
+            <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button" data-size="large">Follow @uraeustech</a>
+          </div>
         </div>
       </div>
     </div>
