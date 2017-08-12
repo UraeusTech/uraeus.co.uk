@@ -12,9 +12,9 @@ post_date: 2017-05-11 15:00:54
   <div id="pg-132-0"  class="panel-grid panel-has-style"  data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:&quot;181&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-132-0" data-stretch-type="full" >
       <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
-        <div id="panel-132-0-0-0" class="so-panel widget widget_sow-hero panel-first-child panel-last-child" data-index="0" data-style="{&quot;background&quot;:&quot;#89a4bf&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div id="panel-132-0-0-0" class="so-panel widget widget_sow-hero panel-first-child panel-last-child" data-index="0" data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
           <div class="panel-widget-style panel-widget-style-for-132-0-0-0" >
-            <div class="so-widget-sow-hero so-widget-sow-hero-default-7bec7e8f2c39 so-widget-fittext-wrapper" data-fit-text-compressor="0.85">
+            <div class="so-widget-sow-hero so-widget-sow-hero-default-feb4cec33aa6 so-widget-fittext-wrapper" data-fit-text-compressor="0.85">
               <div class="sow-slider-base " style="display: none">
                 <ul class="sow-slider-images" data-settings="{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000,&quot;swipe&quot;:true}">
                   <li class="sow-slider-image" style="background-color: #333333" >
@@ -35,11 +35,11 @@ post_date: 2017-05-11 15:00:54
                 </ol>
                 
                 <div class="sow-slide-nav sow-slide-nav-next">
-                  <a href="#" data-goto="next" data-action="next"> <em class="sow-sld-icon-thin-right"></em> </a>
+                  <a href="#" data-goto="next" data-action="next"> <em class="sow-sld-icon-thick-right"></em> </a>
                 </div>
                 
                 <div class="sow-slide-nav sow-slide-nav-prev">
-                  <a href="#" data-goto="previous" data-action="prev"> <em class="sow-sld-icon-thin-left"></em> </a>
+                  <a href="#" data-goto="previous" data-action="prev"> <em class="sow-sld-icon-thick-left"></em> </a>
                 </div>
               </div>
             </div>
