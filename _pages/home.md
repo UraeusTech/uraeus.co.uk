@@ -115,7 +115,17 @@ post_date: 2017-05-11 15:00:54
         </div>
       </div>
       
-      <div id="panel-132-2-2-1" class="so-panel widget widget_twitter-follow panel-last-child" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-1" class="widget_text so-panel widget widget_custom_html" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <h3 class="widget-title">
+          Follow Us On Twitter
+        </h3>
+        
+        <div class="textwidget custom-html-widget">
+          <a href="https://twitter.com/UraeusTech" class="twitter-follow-button" data-show-count="false">Follow @UraeusTech</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+      </div>
+      
+      <div id="panel-132-2-2-2" class="so-panel widget widget_twitter-follow panel-last-child" data-index="6" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <h3 class="widget-title">
           Follow Us on Twitter
         </h3>
