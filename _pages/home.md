@@ -9,40 +9,14 @@ published: true
 post_date: 2017-05-11 15:00:54
 ---
 <div id="pl-132"  class="panel-layout" >
-  <div id="pg-132-0"  class="panel-grid panel-has-style"  data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:&quot;181&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
-    <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-132-0" data-stretch-type="full" >
-      <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
-        <div id="panel-132-0-0-0" class="so-panel widget widget_sow-hero panel-first-child panel-last-child" data-index="0" data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_display&quot;:&quot;tile&quot;}" >
-          <div class="panel-widget-style panel-widget-style-for-132-0-0-0" >
-            <div class="so-widget-sow-hero so-widget-sow-hero-default-feb4cec33aa6 so-widget-fittext-wrapper" data-fit-text-compressor="0.85">
-              <div class="sow-slider-base " style="display: none">
-                <ul class="sow-slider-images" data-settings="{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000,&quot;swipe&quot;:true}">
-                  <li class="sow-slider-image" style="background-color: #333333" >
-                    <div class="sow-slider-image-container">
-                      <div class="sow-slider-image-wrapper">
-                        <h1 style="text-align: center">
-                          Uraeus Technology
-                        </h1>
-                      </div>
-                    </div>
-                  </li>
-                </ul>
-                
-                <ol class="sow-slider-pagination">
-                  <li>
-                    <a href="#" data-goto="0">1</a>
-                  </li>
-                </ol>
-                
-                <div class="sow-slide-nav sow-slide-nav-next">
-                  <a href="#" data-goto="next" data-action="next"> <em class="sow-sld-icon-thick-right"></em> </a>
-                </div>
-                
-                <div class="sow-slide-nav sow-slide-nav-prev">
-                  <a href="#" data-goto="previous" data-action="prev"> <em class="sow-sld-icon-thick-left"></em> </a>
-                </div>
-              </div>
-            </div>
+  <div id="pg-132-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
+    <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
+      <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="panel-widget-style panel-widget-style-for-132-0-0-0" >
+          <div class="textwidget">
+            <h1 style="text-align: center;">
+              Uraeus Technology
+            </h1>
           </div>
         </div>
       </div>
@@ -62,7 +36,7 @@ post_date: 2017-05-11 15:00:54
   </div>
   
   <div id="pg-132-2"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
-    <div id="pgc-132-2-0"  class="panel-grid-cell"  data-weight="0.5" >
+    <div id="pgc-132-2-0"  class="panel-grid-cell"  data-weight="0.33333333333333" >
       <div id="panel-132-2-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
@@ -88,7 +62,7 @@ post_date: 2017-05-11 15:00:54
       </div>
     </div>
     
-    <div id="pgc-132-2-1"  class="panel-grid-cell"  data-weight="0.5" >
+    <div id="pgc-132-2-1"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.33333333333333" >
       <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
@@ -113,17 +87,14 @@ post_date: 2017-05-11 15:00:54
         </div>
       </div>
     </div>
+    
+    <div id="pgc-132-2-2"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.33333333333333" >
+    </div>
   </div>
   
-  <div id="pg-132-3"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
-    <div id="pgc-132-3-0"  class="panel-grid-cell"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;vertical_alignment&quot;:&quot;auto&quot;}"  data-weight="0.5" >
-      <div id="panel-132-3-0-0" class="so-panel widget widget_twitter-follow panel-first-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
-        <div class="twitter-follow">
-          <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button" data-size="large">Follow @uraeustech</a>
-        </div>
-      </div>
-      
-      <div id="panel-132-3-0-1" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-last-child" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+  <div id="pg-132-3"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
+    <div id="pgc-132-3-0"  class="panel-grid-cell"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;vertical_alignment&quot;:&quot;auto&quot;}"  data-weight="0.5" >
+      <div id="panel-132-3-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2 style="text-align: center;">
             <a href="http://www.uraeus.co.uk/home/contact-c/" rel="attachment wp-att-425"><img class="aligncenter size-thumbnail wp-image-425" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/contact-c-150x150.jpg" alt="" width="150" height="150" /></a>Contact
@@ -138,21 +109,19 @@ post_date: 2017-05-11 15:00:54
           </p>
         </div>
       </div>
-    </div>
-    
-    <div id="pgc-132-3-1"  class="panel-grid-cell"  data-weight="0.5" >
-      <div id="panel-132-3-1-0" class="so-panel widget widget_sow-contact-form panel-first-child panel-last-child" data-index="6" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
-        <div class="so-widget-sow-contact-form so-widget-sow-contact-form-default-2f07ede24105">
+      
+      <div id="panel-132-3-0-1" class="so-panel widget widget_twitter-follow panel-last-child" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="twitter-follow">
+          <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button" data-size="large">Follow @uraeustech</a>
         </div>
       </div>
     </div>
-  </div>
-  
-  <div id="pg-132-4"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
-    <div id="pgc-132-4-0"  class="panel-grid-cell panel-grid-cell-empty panel-grid-cell-mobile-last"  data-weight="0.5" >
-    </div>
     
-    <div id="pgc-132-4-1"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.5" >
+    <div id="pgc-132-3-1"  class="panel-grid-cell"  data-weight="0.5" >
+      <div id="panel-132-3-1-0" class="so-panel widget widget_sow-contact-form panel-first-child panel-last-child" data-index="6" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="so-widget-sow-contact-form so-widget-sow-contact-form-default-2f07ede24105">
+        </div>
+      </div>
     </div>
   </div>
 </div>
