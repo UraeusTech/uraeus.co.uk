@@ -99,7 +99,7 @@ post_date: 2017-05-11 15:00:54
     </div>
     
     <div id="pgc-132-2-2"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
             <img class="aligncenter wp-image-561" src="http://www.uraeus.co.uk/wp-content/uploads/2017/05/contact-c.jpg" alt="" width="135" height="135" />
@@ -122,24 +122,19 @@ post_date: 2017-05-11 15:00:54
           </p>
         </div>
       </div>
-      
-      <div id="panel-132-2-2-1" class="so-panel widget widget_twitter-follow panel-last-child" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+    </div>
+  </div>
+  
+  <div id="pg-132-3"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
+    <div id="pgc-132-3-0"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.5" >
+      <div id="panel-132-3-0-0" class="so-panel widget widget_twitter-follow panel-first-child panel-last-child" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="twitter-follow">
           <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button" data-show-count="false">Follow @uraeustech</a>
         </div>
       </div>
     </div>
-  </div>
-  
-  <div id="pg-132-3"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
-    <div id="pgc-132-3-0"  class="panel-grid-cell panel-grid-cell-empty"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;vertical_alignment&quot;:&quot;auto&quot;}"  data-weight="0.5" >
-    </div>
     
-    <div id="pgc-132-3-1"  class="panel-grid-cell"  data-weight="0.5" >
-      <div id="panel-132-3-1-0" class="so-panel widget widget_sow-contact-form panel-first-child panel-last-child" data-index="6" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
-        <div class="so-widget-sow-contact-form so-widget-sow-contact-form-default-2f07ede24105">
-        </div>
-      </div>
+    <div id="pgc-132-3-1"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.5" >
     </div>
   </div>
 </div>
