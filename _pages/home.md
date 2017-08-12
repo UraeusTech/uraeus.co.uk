@@ -11,7 +11,7 @@ post_date: 2017-05-11 15:00:54
 <div id="pl-132"  class="panel-layout" >
   <div id="pg-132-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
-      <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;font_color&quot;:&quot;#ffffff&quot;}" >
         <div class="panel-widget-style panel-widget-style-for-132-0-0-0" >
           <div class="textwidget">
             <h1 style="text-align: center;">
