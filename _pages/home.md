@@ -12,20 +12,34 @@ post_date: 2017-05-11 15:00:54
   <div id="pg-132-0"  class="panel-grid panel-has-style"  data-style="{&quot;background&quot;:&quot;#000000&quot;,&quot;background_image_attachment&quot;:&quot;181&quot;,&quot;background_display&quot;:&quot;cover&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" >
     <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-132-0" data-stretch-type="full" >
       <div id="pgc-132-0-0"  class="panel-grid-cell"  data-weight="1" >
-        <div id="panel-132-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;center&quot;,&quot;font_color&quot;:&quot;#f9f9f9&quot;}" >
-          <div class="panel-widget-style panel-widget-style-for-132-0-0-0" >
-            <div class="textwidget">
-              <p style="text-align: center;">
-                [spacer height="25px"]
-              </p>
+        <div id="panel-132-0-0-0" class="so-panel widget widget_sow-hero panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+          <div class="so-widget-sow-hero so-widget-sow-hero-default-a2c12170b4d8 so-widget-fittext-wrapper" data-fit-text-compressor="0.85">
+            <div class="sow-slider-base " style="display: none">
+              <ul class="sow-slider-images" data-settings="{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000,&quot;swipe&quot;:true}">
+                <li class="sow-slider-image" style="background-color: #333333" >
+                  <div class="sow-slider-image-container">
+                    <div class="sow-slider-image-wrapper">
+                      <h1 style="text-align: center">
+                        Uraeus Technology
+                      </h1>
+                    </div>
+                  </div>
+                </li>
+              </ul>
               
-              <h1 style="text-align: center;">
-                <a href="http://www.uraeus.co.uk/"><span class="home-headline">Uraeus Technologies</span></a>
-              </h1>
+              <ol class="sow-slider-pagination">
+                <li>
+                  <a href="#" data-goto="0">1</a>
+                </li>
+              </ol>
               
-              <p style="text-align: center;">
-                [spacer height="25px"]
-              </p>
+              <div class="sow-slide-nav sow-slide-nav-next">
+                <a href="#" data-goto="next" data-action="next"> <em class="sow-sld-icon-thin-right"></em> </a>
+              </div>
+              
+              <div class="sow-slide-nav sow-slide-nav-prev">
+                <a href="#" data-goto="previous" data-action="prev"> <em class="sow-sld-icon-thin-left"></em> </a>
+              </div>
             </div>
           </div>
         </div>
@@ -115,7 +129,7 @@ post_date: 2017-05-11 15:00:54
         </div>
       </div>
       
-      <div id="panel-132-2-2-1" class="widget_text so-panel widget widget_custom_html" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-1" class="widget_text so-panel widget widget_custom_html" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <h3 class="widget-title">
           Follow Us On Twitter
         </h3>
