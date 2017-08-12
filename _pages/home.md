@@ -89,7 +89,7 @@ post_date: 2017-05-11 15:00:54
     </div>
     
     <div id="pgc-132-2-1"  class="panel-grid-cell"  data-weight="0.33333333333333" >
-      <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="textwidget">
           <h2>
             <a href="http://www.uraeus.co.uk/home/blockchain-b-page-1/" rel="attachment wp-att-411"><img class="aligncenter wp-image-411" src="http://www.uraeus.co.uk/wp-content/uploads/2015/09/Blockchain-b-Page-1-150x150.jpeg" alt="" width="135" height="135" /></a>
@@ -100,7 +100,7 @@ post_date: 2017-05-11 15:00:54
           </h2>
           
           <p style="text-align: center;">
-            Advice /  Code / Architecture
+            Advice / Strategy / Research / Development
           </p>
           
           <p style="text-align: center;">
@@ -131,7 +131,7 @@ post_date: 2017-05-11 15:00:54
         </div>
       </div>
       
-      <div id="panel-132-2-2-1" class="so-panel widget widget_twitter-follow panel-last-child" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-132-2-2-1" class="so-panel widget widget_twitter-follow panel-last-child" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="twitter-follow">
           <a href="https://twitter.com/intent/follow?screen_name=uraeustech" class="twitter-follow-button" data-size="large">Follow @uraeustech</a>
         </div>
